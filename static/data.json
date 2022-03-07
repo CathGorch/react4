@@ -1,0 +1,131 @@
+{
+  "login": "1",
+  "usersData": [
+    {
+      "login": "1",
+      "password": "1",
+      "name": "Иван",
+      "img": "",
+      "friends": [
+        "2",
+        "3"
+      ],
+      "postsPage": {
+        "postItems": [
+          {
+            "message": "Hi, world1",
+            "login": 1,
+            "likes": 0
+          },
+          {
+            "message": "I`m Elon Mask, really1",
+            "login": 2,
+            "likes": 3
+          },
+          {
+            "message": "Give me some bitcoins1",
+            "login": 3,
+            "likes": 10
+          }
+        ],
+        "newPostText": "hello"
+      },
+      "messageItems": [
+        {
+          "message": "Привет!1",
+          "login": 1
+        },
+        {
+          "message": "Как дела?1",
+          "login": 2
+        },
+        {
+          "message": "Пока.1",
+          "login": 3
+        }
+      ]
+    },
+    {
+      "login": "2",
+      "password": "1",
+      "name": "Петр",
+      "friends": [
+        "1"
+      ],
+      "postsPage": {
+        "postItems": [
+          {
+            "message": "Hi, world2",
+            "login": 1,
+            "likes": 0
+          },
+          {
+            "message": "I`m Elon Mask, really2",
+            "login": 2,
+            "likes": 3
+          },
+          {
+            "message": "Give me some bitcoins2",
+            "login": 3,
+            "likes": 10
+          }
+        ],
+        "newPostText": "hello"
+      },
+      "messageItems": [
+        {
+          "message": "Привет!2",
+          "login": 1
+        },
+        {
+          "message": "Как дела?2",
+          "login": 2
+        },
+        {
+          "message": "Пока.2",
+          "login": 3
+        }
+      ]
+    },
+    {
+      "login": "3",
+      "password": "1",
+      "name": "Иван",
+      "friends": [],
+      "postsPage": {
+        "postItems": [
+          {
+            "message": "Hi, world3",
+            "login": 1,
+            "likes": 0
+          },
+          {
+            "message": "I`m Elon Mask, really3",
+            "login": 2,
+            "likes": 3
+          },
+          {
+            "message": "Give me some bitcoins3",
+            "login": 3,
+            "likes": 10
+          }
+        ],
+        "newPostText": "hello"
+      },
+      "messageItems": [
+        {
+          "message": "Привет!3",
+          "login": 1
+        },
+        {
+          "message": "Как дела?3",
+          "login": 2
+        },
+        {
+          "message": "Пока.3",
+          "login": 3
+        }
+      ]
+    }
+  ]
+}
